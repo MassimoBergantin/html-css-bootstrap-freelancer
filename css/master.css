@@ -1,6 +1,6 @@
 
 .header {
-    background-color: green;
+    background-color: rgb(1, 94, 1);
 }
 .nav {
     height: 50px;
@@ -26,8 +26,29 @@ h1 {
 .ul-header li {
     margin-right: 15px;
 }
-.row div{
-    background-color: violet;
+.container {
+    margin: 0 auto;
+}
+.row .port{
+    background-color: tomato;
     height: 150px;
     border: 2px solid black;
-    margin: 0 auto;
+}
+.about {
+    background-color: rgb(1, 94, 1);
+    
+}
+.section1 .col {
+    background-color: tomato;
+    height: 150px;
+    border: 2px solid black;
+    width: 250px;
+}
+.about p  {
+    text-align: center;
+    border: 2px solid black;
+}
+.Copyright {
+    height: 100px;
+    line-height: 100px;
+}
