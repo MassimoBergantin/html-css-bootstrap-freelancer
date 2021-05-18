@@ -1,0 +1,33 @@
+
+.header {
+    background-color: green;
+}
+.nav {
+    height: 50px;
+    background-color: teal;
+}
+h1 {
+    text-align: center;
+
+}
+.kid-smile {
+    width: 150px;
+    height: 150px;
+    background-color: tomato;
+    margin: 0 auto;
+    border-radius: 150px;
+}
+.ul-header {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+}
+.ul-header li {
+    margin-right: 15px;
+}
+.row div{
+    background-color: violet;
+    height: 150px;
+    border: 2px solid black;
+    margin: 0 auto;
