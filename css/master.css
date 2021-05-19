@@ -1,6 +1,6 @@
 
 .header {
-    background-color: rgb(1, 94, 1);
+    background-color: #19bc9b;
 }
 .nav {
     height: 50px;
@@ -17,6 +17,7 @@ h1 {
     margin: 0 auto;
     border-radius: 150px;
 }
+
 .ul-header {
     display: flex;
     justify-content: center;
@@ -60,9 +61,15 @@ h1 {
     background-color: #19bc9b;
     height: 200px;
 }
-.about {
-    background-color: rgb(1, 94, 1);
+.about-container{
+    background-color: #19bc9b;
     
+}
+.about-content {
+    text-align: center;
+}
+.about {
+    background-color: #19bc9b;
 }
 .section1 .col {
     background-color: tomato;
@@ -70,11 +77,14 @@ h1 {
     border: 2px solid black;
     width: 250px;
 }
-.about p  {
-    text-align: center;
-    border: 2px solid black;
-}
+
 .Copyright {
     height: 100px;
     line-height: 100px;
+}
+.star {
+    text-align: center;
+}
+.footer-content {
+    text-align: center;
 }
