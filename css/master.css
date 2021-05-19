@@ -6,6 +6,9 @@
     height: 50px;
     background-color: teal;
 }
+.collapse {
+    flex-grow: 0;
+}
 h1 {
     text-align: center;
 
