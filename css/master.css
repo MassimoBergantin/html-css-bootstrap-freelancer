@@ -26,13 +26,39 @@ h1 {
 .ul-header li {
     margin-right: 15px;
 }
-.container {
-    margin: 0 auto;
+.main-description{
+    text-align: center;
+    margin-top: 50px;
 }
-.row .port{
-    background-color: tomato;
-    height: 150px;
-    border: 2px solid black;
+
+[class*=main-content]{
+    height: 280px;
+    margin-bottom: 24px;
+    background-size: cover;
+    background-position:center;
+    border-radius: 10px;
+}
+.main-content-1{
+    background-image: url(../img/cabin.png);
+}
+.main-content-2{
+    background-image: url(../img/cake.png);
+}
+.main-content-3{
+    background-image: url(../img/circus.png);
+}
+.main-content-4{
+    background-image: url(../img/game.png);
+}
+.main-content-5{
+    background-image: url(../img/safe.png);
+}
+.main-content-6{
+    background-image: url(../img/submarine.png);
+}
+.article-container{
+    background-color: #19bc9b;
+    height: 200px;
 }
 .about {
     background-color: rgb(1, 94, 1);
